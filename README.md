@@ -1,0 +1,1 @@
+# Woocommerce-not-on-sale-shortcode
